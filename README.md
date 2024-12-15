@@ -1,7 +1,7 @@
 # 🎥 Animation Assigner Plugin
 ### Made By: BigH 🚀
 
-![Animation Assigner UI](INSERT_IMAGE_URL_HERE)
+![Animation Assigner UI](https://github.com/user-attachments/assets/3411917b-1aa0-4b1d-a624-ba62acc08dd6)
 
 ---
 
@@ -55,7 +55,7 @@ The **Animation Assigner Plugin** for Roblox Studio allows developers to efficie
 ---
 
 ## 📷 Screenshot
-![Animation Assigner UI](INSERT_IMAGE_URL_HERE)
+![Animation Assigner UI](https://github.com/user-attachments/assets/84873869-7b45-4bb9-bd4a-f03d45a3451c)
 
 ---
 
